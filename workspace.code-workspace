@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Projects\\portfoli"
+		},
+		{
+			"path": "..\\Мой первый сайт"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Имя Фамилия 10"
+	}
+}
